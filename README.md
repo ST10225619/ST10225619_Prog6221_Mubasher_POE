@@ -29,3 +29,7 @@ Improvement based on lecturers Feedback:
 
 So I did not do so well in terms of the previous part(Part 2). The feedback I recived was of the following things I could improve on, such as using try and catch methods to handle exceptions much better. Some of my methods were not working. Such as the scaling methods. The Reset method was not working because of a minor syntax error in the method. I have improved on capturing and viewing the recipe details as not all my details were captured in Part 2. Overall I Have improved in capturing the data entered from the user. However I failed to add the filter feature for filtering by calories and foodgroup.
 
+
+Screenshots:
+![image](https://github.com/ST10225619/ST10225619_Prog6221_Mubasher_POE/assets/102403687/48f8d926-4a04-4631-856b-c42eb4169d3c)
+
